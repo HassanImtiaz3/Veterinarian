@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+    background-color:#ffc300;
+}
+
+a{
+    text-decoration: none;
+}
+
+/*---------------------------------------------
+/* <!-- Navbar section start --> */
+.navbar-expand-lg
+{
+    background-color: #eaae00;
+}
+
+.nav-link{
+    color: white;
+}
+
+::placeholder{
+    color: white !important;
+}
+
+.navbar-default .navbar-toggler {
+    color: #ffc300 !important;
+    border-color: #eaae00;
+    background-color: #eaae00;
+}
+
+@media screen and (max-width: 686px) {
+   .logo{
+    width: 80%;
+   }
+  }
+/* <!-- Navbar section end -->
+/*---------------------------------------------
+
+
+
+/*---------------------------------------------
+/* section1 start */
+.container1{
+    background-color: #ffc300;
+}
+/* section1 end */
+/*---------------------------------------------
+
+
+
+/*---------------------------------------------
+/* <!-- section2 start --> */
+.container2{
+    color: black !important;
+    background-color: white;
+}
+/* <!-- section2 end --> */
+/*---------------------------------------------
+
+
+
+
+
+/*---------------------------------------------
+/* <!-- footer section start --> */
+.container3
+{
+    background-color: #2f2f2f;
+    color: white !important;
+}
+
+.text-muted{
+    color:rgb(180, 180, 180) !important;
+}
+/* <!-- footer section end --> */
+/*---------------------------------------------*/
+
